@@ -1,0 +1,6 @@
+aa = (8875304,538,985,895938,3)
+print(aa)
+print(type(aa))
+fruits = ("Apple","Mango","Guava","Watermelon","Lichy")
+print(len(fruits))
+print(fruits[3])
